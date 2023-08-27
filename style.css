@@ -1,0 +1,30 @@
+body {
+    background-color: #A8DF8E;
+}
+
+.btn {
+    width: 50%;
+    height: 20vh;
+    background-color: #FFBFBF;
+    color: #7EAA92;
+    border-radius: 54px;
+    margin: auto;
+    display: block;
+    position: relative;
+    top: 273px;
+    font-size: 25px;
+    font-weight: bolder;
+    box-shadow: 0px -5px 7px #FFE5E5;
+
+}
+
+.btn:hover {
+    background-color: #FFE5E5;
+    box-shadow: 5px 5px 7px black;
+    font-size: 35px;
+    color: #FFBFBF;
+}
+
+.modal-content {
+    background-color: #FFBFBF;
+}
